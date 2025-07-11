@@ -28,24 +28,28 @@ Let’s talk about fun electives you can take next fall!
 1. **CSCI-UA 430: Agile Software Dev & DevOps**  
    Learn how real-world software teams work — agile methods, automation, CI/CD pipelines, and more.
 2. **CSCI-UA 467: Applied Internet Tech**  
-   Want to build full-stack web apps? This class takes you from database to front-end with tools like JavaScript, HTML/CSS, and server frameworks.
-3. **CSCI-UA 469: Natural Language Processing**  
+   Course Description: Want to build full-stack web apps? This class takes you from database to front-end with tools like JavaScript, HTML/CSS, and server frameworks. This course is a practical introduction to creating modern web applications. It will cover full stack web development - from database design all the way through client side interactivity. Students will use current server and client side web frameworks to build dynamic, data-driven sites. Various tools to support development will also be introduced, such as version control and build systems.
+
+   Comments: This class is definitely quite intensive, but it's a great introduction into webdev beyond just static html/css/javascript. You pretty much go through the entire MERN stack (A real world stack of frameworks and technologies frequently used in industry). Towards the end of the semester you get to do a project to apply what you've learned and possibly put on your portfolio for job/internship applications.
+
+   Prerequisites: Basic knowledge of HTML and CSS and familiarity with using command line tools are required.
+4. **CSCI-UA 469: Natural Language Processing**  
    From chatbots to sentiment analysis, this is a great intro to AI and linguistics if you’re interested in learning about languages and code.
-4. **CSCI-UA 470: Object Oriented Programming**  
+5. **CSCI-UA 470: Object Oriented Programming**  
    Learn Java & C++ and understand how OOP works. This is helpful if you’re into software engineering or big projects.
-5. **CSCI-UA 472: Artificial Intelligence**  
+6. **CSCI-UA 472: Artificial Intelligence**  
    A broad but solid overview of AI — covers logic, reasoning, and an introduction to machine learning and NLP.
-6. **CSCI-UA 473: Fundamentals of Machine Learning**  
+7. **CSCI-UA 473: Fundamentals of Machine Learning**  
    A bit more math-heavy, but super useful. Also required for DS majors!
-7. **CSCI-UA 474: Software Engineering**  
+8. **CSCI-UA 474: Software Engineering**  
    A hands-on group project all semester! Great prep for internships or jobs, especially if you want to learn teamwork and dev tools.
-8. **CSCI-UA 475: Predictive Analytics**  
+9. **CSCI-UA 475: Predictive Analytics**  
    An introduction to data science with clustering, classification, recommender systems, and more.
-9. **CSCI-UA 478 / MATH-UA 243: Intro to Cryptography**  
+10. **CSCI-UA 478 / MATH-UA 243: Intro to Cryptography**  
    Love math or puzzles? This dives into encryption, digital signatures, and network security.
-10. **CSCI-UA 479: Data Management & Analysis**  
+11. **CSCI-UA 479: Data Management & Analysis**  
     Covers SQL, Python, databases (both relational and non-relational), and data modeling — useful if you're aiming for DS or analytics roles.
-11. **CSCI-UA 480: Special Topics**  
+12. **CSCI-UA 480: Special Topics**  
     Every semester is different — options include Deep Learning, Cybersecurity, Computer Vision, Parallel Computing, etc. You can explore whatever’s new!
 
 ## A Few Recommendations Outside CS (Because We Love Electives Too)
