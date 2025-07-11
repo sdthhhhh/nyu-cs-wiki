@@ -13,7 +13,7 @@ title: CS Wiki Course Registration
 ### Comparing CS major requirement between CAS & Tandon
 - [CS at CAS and Tandon](https://cs.nyu.edu/home/undergrad/cs_tandon.html)
 
-# Cool Classes in Tandon
+## Cool Classes in Tandon
 
 - Algorithmic Machine Learning and Data Science
   
