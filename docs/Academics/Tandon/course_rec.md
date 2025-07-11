@@ -2,7 +2,7 @@
 title: CS Wiki Course Registration
 ---
 
-# CS Major Requirement @ Tandon
+# CS Major Requirements @ Tandon
 
 ## Degree Granted:
 - Bachelor of Science
