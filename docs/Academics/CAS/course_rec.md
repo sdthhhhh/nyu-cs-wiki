@@ -1,6 +1,6 @@
 # CS Wiki Course Registration
 
-Hi everyone! As we approach the end of the semester, it’s officially advising season — time to think about your Fall 2025 schedule! Whether you’re a Computer Science major, minor, or just exploring, we’re here to make your registration process easier and stress-free!
+Whether you’re a Computer Science major, minor, or just exploring, we’re here to make your registration process easier and stress-free!
 
 ## First Things First
 - **Check your Albert:** Make sure to check your Albert for your exact registration data and time!
