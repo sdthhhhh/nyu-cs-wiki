@@ -1,26 +1,17 @@
 ---
-sidebar_position: 2
-title: Recommended Classes
-tags:
-  - CAS
-  - Tandon
-  - Classes
-  - Planning
+title: CS Wiki Course Registration
 ---
 
-# Recommended Classes
+# CS Major Requirements @ Tandon
 
-A list of recommended classes by former students. If you would like to add/update this list, send a [pull request](https://github.com/BUGS-NYU/nyu-cs-wiki/pulls)!
+## Degree Granted:
+- Bachelor of Science
 
-## CAS
+### Required Computer Science Courses
+- [Computer Science Course Requirement at Tandon](https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-bs/)
 
-- Applied Internet Technologies (CSCI-UA 0467)
-
-  Course Description: This course is a practical introduction to creating modern web applications. It will cover full stack web development - from database design all the way through client side interactivity. Students will use current server and client side web frameworks to build dynamic, data-driven sites. Various tools to support development will also be introduced, such as version control and build systems.
-
-  Comment: This class is definitely quite intensive, but it's a great introduction into webdev beyond just static html/css/javascript. You pretty much go through the entire MERN stack (A real world stack of frameworks and technologies frequently used in industry). Towards the end of the semester you get to do a project to apply what you've learned and possibly put on your portfolio for job/internship applications
-
-  Prerequisites: Basic knowledge of HTML and CSS and familiarity with using command line tools are required.
+### Comparing CS major requirement between CAS & Tandon
+- [CS at CAS and Tandon](https://cs.nyu.edu/home/undergrad/cs_tandon.html)
 
 ## Tandon
 
@@ -39,3 +30,13 @@ A list of recommended classes by former students. If you would like to add/updat
   Prerequisites: None*
 
   * Some experience in python scripting is expected. Please DO NOT take this class unless you have taken/are familiar with the concepts taught in Computer Architecture/Computer Systems Organization and Operating Systems.
+
+## Retaking Classes 
+
+You can optionally retake a class one or two times if you are not satisfied with the first grade or if you failed the class. The grade you get when retaking the class will replace the original grade received on your GPA, regardless of whether the received grade is better or worse. Both subjects and their respective grades will be shown on your transcript. The repeated course must be taken within one year of the first course or the first time it is offered. More information can be found [here](https://engineering.nyu.edu/academics/support-services/registration/registration-policies). 
+
+### Should I retake this class?
+ 
+If you aren't doing graduate school, probably not.
+
+If you are, then it may be worth retaking the classes if the classes are in the domain of computer science. 
